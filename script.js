@@ -159,27 +159,6 @@ let productThree = document.getElementById("product3");
 
 blockProduct(prodoctsBurger, snack);
 
-/*
-productTwo.addEventListener( "click" , function (){
-    divWrap.remove();
-    let divWrap = document.createElement('div');
-    document.body.append(divWrap);
-    divWrap.className = 'divWrapBlock'; 
-    blockProduct(prodoctsBurger, burger);
-
-    
-})
-/*
-productTwo.addEventListener( "click" , function (){
-    let divWrap = document.createElement('div');
-    document.body.append(divWrap);
-    divWrap.className = 'divWrapBlock'; 
-   
-})
-
-productTwo.addEventListener( "click" , function (){
-    blockProduct(prodoctsBurger, burger);
-})
 
 
 
